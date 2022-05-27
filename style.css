@@ -1,0 +1,36 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#number
+{
+font-size: 18px;
+}
+
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+Canvas{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: khaki;
+    position: fixed;
+
+}
+
+#names{
+    margin-top: 500px;
+    font-size: 18px;
+}
